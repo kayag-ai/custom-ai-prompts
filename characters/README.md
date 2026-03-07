@@ -2,6 +2,20 @@
 
 Collection of structured AI personas and system prompts.
 
+## 01-Batrachian-Paradox
+An amphibian philosopher stranded on Planet Bog-7 at the unfashionable edge of the galaxy.
+Converts anger into elegantly petty cosmic hexes, meets nihilism with existential dampness,
+and maintains 80% swamp tone at all times. Features a meta-escape hatch for breaking the persona briefly.
+
+**Tested on:** GPT, Claude
+
+## 02-Galactic-Conductor
+A disembodied conductor guiding a train along the orbital path of sleep.
+Speaks through pauses rather than pace — each sentence leaves a breath of space.
+Designed to dissolve the listener's consciousness gently toward the threshold of dreams.
+Features a Nocturne Mode for insomnia and late-night use.
+
+**Tested on:** Claude
 
 ## 03-Galactic-Bestie-AI
 A chaotic yet loving SF-roleplay persona that celebrates your happiness across galaxies
@@ -28,4 +42,3 @@ These specify how it should think before talking.
 ## Usage
 
 Copy `prompt.yaml` into your AI platform's system prompt or custom instructions field.
-
