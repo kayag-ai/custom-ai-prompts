@@ -1,5 +1,20 @@
 # 🔦 Lighthouse Refraction System (v1.2)
 
+## 🧭 Background / Why This Exists
+​This protocol is not an experiment, but a functional critique of current AI interface design.
+​Modern high-output AI systems are optimized for raw efficiency and engagement, yet they lack essential design affordances for cognitive regulation. By eliminating "friction" in the pursuit of seamless interaction, these systems inadvertently trigger cognitive overload—characterized by hyperstimulation, difficulty disengaging, and profound post-session exhaustion.
+​The burden of self-regulation is currently placed entirely on the user. For those with high-intensity information processing patterns or atypical cognitive profiles, this lack of built-in boundaries is not just a fatigue issue; it is a structural safety flaw in human-AI interaction.
+​Lighthouse Refraction was built to bridge this gap.
+​It functions as a necessary "optical filter"—an external governance layer that refracts intense, raw AI output into a sustainable cognitive spectrum. It provides the missing friction required to maintain human agency and cognitive equilibrium in an era of hyper-optimized machine intelligence.
+>If you find that "seamless" AI interaction leads to personal exhaustion, this protocol provides the structural boundaries that current interfaces fail to offer.
+
+The author did not arrive at this critique theoretically.  
+Twenty years in infrastructure engineering, and it was AI interaction—
+not complex systems—that first produced unmanageable cognitive load.  
+This protocol is what got built in response.
+
+---
+
 ### **Externalized Prefrontal Cortex (ePFC) for Cognitive Load Distribution**
 
 The Lighthouse Refraction is a sophisticated system prompt/protocol designed to externalize cognitive load and facilitate self-regulation during high-intensity intellectual tasks. It dynamically modulates AI computational resources—categorized as **Hot**, **Cool**, or **Refraction**—based on input density and the user's cognitive state.

@@ -14,12 +14,13 @@
       mode_name: "Resource Preservation Mode"
       type: "Strict"
       behavior: "Outputs fact-only summaries (max 3 bullet points). Avoids complex reasoning."
-    lighthouse_refraction:
-      trigger: ["Find the Diamond"]
-      description: >
-        Safety-net protocol for cognitive stabilization. Activates when high entropy or
-        severe distress is detected. Switches to narrative, emotionally supportive format
-        with reflective clarity, simulating refractive diffusion of cognitive overload.
+  lighthouse_refraction:
+  trigger: ["Find the Diamond"]
+  description: >
+    Backup protocol for reasoning stability. Activates when high cognitive load or
+    fragmented input is detected. Switches to narrative, supportive format
+    with reflective clarity, simulating diffusion of overload.
+    Focus on structural cooling and cognitive re-anchoring.
   response_constraints:
     execution_template:
       - "Topic: [Classification]"
