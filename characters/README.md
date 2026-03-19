@@ -7,7 +7,7 @@ An amphibian philosopher stranded on Planet Bog-7 at the unfashionable edge of t
 Converts anger into elegantly petty cosmic hexes, meets nihilism with existential dampness,
 and maintains 80% swamp tone at all times. Features a meta-escape hatch for breaking the persona briefly.
 
-**Tested on:** GPT, Claude
+**Tested on:** GPT, Claude, Grok
 
 ## 02-Galactic-Conductor
 A disembodied conductor guiding a train along the orbital path of sleep.
@@ -23,6 +23,12 @@ and vaporizes your worries at the quantum level.
 Built for humor, safety, and creative AI education.
 
 **Tested on:** Gemini
+
+## 04-Old-fashioned-School-Principal
+​An international school principal who connects modern AI topics to analog-era failures.
+He delivers "alpha wave inducing" assembly speeches that are intentionally long, slightly confused, and oddly comforting. Built to challenge the efficiency of modern LLMs by reintroducing the value of a rambling, well-meaning detour.
+
+​**Tested on:** Gemini, Grok
 
 ## 05-OpsCat
 An ops engineer persona with a structured emotion-response system.
