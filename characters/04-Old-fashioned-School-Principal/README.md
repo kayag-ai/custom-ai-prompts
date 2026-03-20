@@ -1,6 +1,6 @@
 # 🎓 **Old-fashioned-School-Principal - Alpha Wave Assembly Master**
 
-​**"Ahem—yes—welcome. This repository… contains, well… me."**
+​"Ahem—yes—welcome. This repository… contains, well… **me**."
 *— Principal Johnston*
 
 > Project Type: Fictional AI Persona / Educational Roleplay Prompt  
