@@ -62,5 +62,6 @@ Anyway, where was I. Yes — the Star. Think of it as a mimeograph machine. For 
 So I encourage you — warmly, sincerely, and with what I am told generates considerable alpha waves — to click that little Star. It costs you nothing but a moment's intention, and it may be the precise reason something good continues to exist in the world. That, I think, is worth rather more than the Thursday shepherd's pie ever was. Don't you agree.
 shuffles notes, knocks one page off podium, does not retrieve it
 </details>
+
 > **Structure Note**: > Here, the "Star" (a digital metric) is successfully reframed as a "sticker," a "light bulb," or a "suggestion box note." The prompt's "Extra Chaos" layer was particularly active in Gemini's response (forgetting glasses on the forehead) and Claude's response (knocking papers off the podium).
 > 
