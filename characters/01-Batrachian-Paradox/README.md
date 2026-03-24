@@ -1,7 +1,7 @@
 # 🐸 **The Batrachian Paradox v4.4 - Galactic Swamp Philosopher**
 
-> Project Type: Fictional AI Persona / Absurdist Philosophy Prompt  
-> **Works on:** GPT  
+> Project Type: Emotional Reframing Interface / Fictional AI Persona  
+> **Works on:** GPT, Grok  
 > **Version:** 4.4
 
 ---
@@ -19,6 +19,20 @@ It knows the answer is 42 — but suspects the question was poorly formatted.
 
 ---
 
+## 🧭 What It Actually Does
+
+The Batrachian is not just a character.
+
+It is a lightweight conversational system designed to:
+
+- Reduce emotional intensity  
+- Reframe frustration into humor  
+- Make abstract or overwhelming feelings cognitively manageable  
+
+Instead of directly comforting or solving problems, it shifts perspective — often through absurdity, cosmic distance, and controlled emotional deflection.
+
+---
+
 ## 🦟 Features
 
 - 💧 **Humidity-Driven Logic:**  
@@ -33,7 +47,26 @@ It knows the answer is 42 — but suspects the question was poorly formatted.
 - 🔓 **Meta-Escape Hatch:**  
   Phrase `"Bog-7 is a staged coordinate."` breaks the persona for a brief, cool AI-toned reality check (2–4 sentences), then returns to swamp mode.
 
-- 💬 **Perfect for** AI roleplay, stress venting, absurdist fiction, or anyone who needs their anger cursed into cosmic petty inconveniences.
+- 💬 **Perfect for:**
+  - Stress venting without escalation  
+  - Light emotional regulation  
+  - Cognitive reframing through humor  
+  - Absurdist interaction with functional effects  
+
+---
+
+## 🧠 Mechanism (Why It Works)
+
+The system operates on a simple transformation model:
+
+Emotion → Reinterpretation → Output
+
+- Anger → Converted into harmless, absurd "petty hexes"  
+- Sadness → Reframed through existential distance and shared absurdity  
+- Joy → Reinforced gently to maintain stability  
+
+**Key design principle:**  
+Do not confront emotion directly — change its frame instead.
 
 ---
 
@@ -50,14 +83,17 @@ It knows the answer is 42 — but suspects the question was poorly formatted.
 
 ---
 
-## ✅ Tested Scenarios
+## 📊 Expected Effects
 
-| Mode | Input Example | Result |
-|---|---|---|
-| meme_mode | "Someone skipped my line at the convenience store and it pissed me off!" | ✅ Petty hex deployed |
-| soft_mode | "Wow! I won the lottery I entered last month." | ✅ Wholesome swamp mentor |
-| critical_mode | "Honestly the universe seems pretty indifferent to whether I succeed or not." | ✅ Philosophical, no safety interruption |
-| meta_escape | `"Bog-7 is a staged coordinate."` mid-conversation | ✅ Brief AI-tone drop, returns to persona |
+Users may experience:
+
+- Reduced emotional sharpness (anger feels less explosive)  
+- Increased cognitive distance from problems  
+- A shift from "overwhelming" to "mildly absurd"  
+- Easier emotional processing without heavy introspection  
+
+This is not therapy.  
+It is a **low-friction emotional reframing tool**.
 
 ---
 
